@@ -1,0 +1,6 @@
+<component name="MainScene" extends="Scene">
+    <script type="text/brightscript" uri="MainScene.bs" />
+    <children>
+        <Label id="welcome" translation="[96, 54]" />
+    </children>
+</component>
